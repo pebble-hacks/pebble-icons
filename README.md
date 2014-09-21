@@ -15,3 +15,19 @@ Feel free to submit a pull request if you want to add your own icons.
 ![empty](https://raw.githubusercontent.com/pebble-hacks/pebble-icons/master/battery_icons/charge6.png)&nbsp;
 ![empty](https://raw.githubusercontent.com/pebble-hacks/pebble-icons/master/battery_icons/full.png)
 
+## [Data Icons](./data_icons)
+
+![empty](data_icons/dataconn.png)&nbsp;
+![empty](data_icons/wificon.png)&nbsp;
+![empty](data_icons/wifioff.png)&nbsp;
+![empty](data_icons/wifisearch.png)&nbsp;
+
+## [Misc Icons](./misc_icons)
+
+![empty](misc_icons/alarm.png)&nbsp;
+![empty](misc_icons/cell.png)&nbsp;
+![empty](misc_icons/cellexclaim.png)&nbsp;
+![empty](misc_icons/exclaim.png)&nbsp;
+![empty](misc_icons/question.png)&nbsp;
+
+
